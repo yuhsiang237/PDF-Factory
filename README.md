@@ -1,4 +1,6 @@
 # PDF-Factory
+![example workflow](https://github.com/yuhsiang237/PDF-Factory/actions/workflows/dotnet.yml/badge.svg)
+
 基於PDF產製的工廠模式實作-簡單工廠模式
 
 ## DEMO
